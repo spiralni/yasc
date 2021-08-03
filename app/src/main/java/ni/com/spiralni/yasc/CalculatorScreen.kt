@@ -49,7 +49,6 @@ fun CalculatorScreen(display: Display, onKeyClick: (key: String) -> Unit) {
                 ) {
                     RightPad(onKeyClick)
                 }
-
             }
         }
     }
